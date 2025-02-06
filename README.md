@@ -1,97 +1,96 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=andikagithub1.andikagithub1" />
 
+---
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+私は+Andika+Putra+Pratama!;" />
-</h1>
+# 🌸 **Halo, Dunia!**  
+> *"Aku tidak tahu apa arti kebahagiaan, tapi aku tahu bahwa jika kamu kehilangan segalanya, maka kau bebas."*  
+> — Osamu Dazai  
 
-<h3 align="center">A passionate Student Web developer from Indonesia</h3>
+Selamat datang di sudut kecil dunia digital saya. Saya adalah seorang **developer**, **pemimpi**, dan **pencari makna** dalam setiap baris kode yang saya tulis. Seperti karakter-karakter dalam novel Dazai, saya sering kali berada dalam perjalanan untuk menemukan keseimbangan antara keindahan dan kekacauan—dan mungkin, sesekali, menemukan sedikit kebahagiaan di tengahnya.
 
-<br/>
+---
 
-<div align="center">
-<img align="center" src="https://github.com/user-attachments/assets/cdce2f10-ab10-4c35-910a-ef324cade967"></img>
- 
- 🔭 I’m currently working on **company profile website**
- 
- 🌱 I’m currently learning **Laravel, C#, C**
+## 📚 **Tentang Saya**  
+> *"Aku hanya ingin hidup dengan tenang, tanpa meninggalkan jejak apa pun."*  
 
-💬 Ask me about **Linux... or anything [here](https://github.com/andikagithub1/andikagithub1/issues)**
+Namun, seperti yang Anda lihat, saya justru meninggalkan jejak di sini—di GitHub. Berikut adalah beberapa hal tentang saya:  
 
-⚡ Fun fact **The JAVA language was previously called Oak. It was named after an oak tree that was grown outside James Gosling’s office.**
+- 🧑‍💻 **Nama**: Andika Putra Pratama
+- 📍 **Lokasi**: Garut/Jawa Barat 
+- 💻 **Profesi**: Developer | Programmer | Problem Solver  
+- 🔭 **Fokus Saat Ini**: Membangun aplikasi yang bermanfaat dan belajar teknologi baru.  
 
-₿🪙 donate bitcoin to me: bc1q0cg7xarp8dxf24kerrmzws9zjk2qrh08exc7l7
+Saya menyukai proses menciptakan sesuatu dari ketiadaan—dari ide yang samar hingga menjadi solusi nyata. Bagi saya, coding adalah seni modern, dan saya berusaha untuk selalu belajar dari setiap kesalahan yang saya buat.  
 
- </div>
- 
-<div align="center"> 
-  <a href="mailto:keperluansekolahfauzy@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <!-- add more badges-->
-  <a href="https://fauzymadani.infinityfreeapp.com" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
-  </a>
-    <a href="fauzy_0x0A48BF3C_public.gpg" target="_blank">
-        <img src="https://img.shields.io/badge/PGP%20Key-0x0A48BF3C-2b2b2b?logo=gnupg&color=white" />
-    </a>
-</div>
+> *"Manusia itu lemah, tapi mereka juga kuat. Itulah mengapa kita begitu indah."*  
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,cs,html,css,vscode,figma,tailwind,git,debian,dotnet,docker" />
-    <img src="https://skillicons.dev/icons?i=bash,python,javascript,github,laravel,linux,lua,c,neovim,mysql,php" /><br>
-    <br/>
-    
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andikagithub1&layout=compact&theme=react)
-</div>
+---
 
-<br/>
-<hr/>
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/andikagithub1/andikagithub1/output/github-contribution-grid-snake-dark.svg" />
-  
-  <br/><br/><br/>
-</div>
+## 💡 **Keahlian Saya**  
+Berikut adalah beberapa teknologi yang saya gunakan dalam perjalanan saya:  
 
-<hr/>
+### Bahasa Pemrograman  
+- ✨ **Java** – Untuk Android Studio dan aplikasi desktop.  
+- 🌟 **JavaScript/TypeScript** – Untuk web development dan React Native.  
+- 🔥 **Python** – Untuk automasi, AI, dan data science.  
 
-<h2 align="center">⚡ Stats ⚡</h2>
-<br>
-<div align=center>
-  
-  <img align="center" width=390 src="https://github-readme-stats.vercel.app/api?username=andikagithub1&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <br/>
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=andikagithub1&theme=tokyonight&card_width=497" alt="GitHub Streak" /></a>
+### Framework & Tools  
+- 🛠️ **React Native** – Membangun aplikasi mobile lintas platform.  
+- 🏗️ **Node.js** – Backend development dan API.  
+- 🎨 **Flutter** – Eksperimen dengan UI yang indah.  
+- 🐳 **Docker** – Containerization untuk deployment yang lebih mudah.  
 
+### Lainnya  
+- 📊 **Git & GitHub** – Manajemen kode yang rapi dan kolaboratif.  
+- 🧪 **Testing & Debugging** – Karena kesempurnaan adalah ilusi, tapi kita bisa mendekatinya.  
 
-  
-</div>
+---
 
-<br/><br/>
+## 🌟 **Proyek Favorit**  
+Beberapa proyek yang saya banggakan (dan masih dalam pengembangan):  
 
-<!--START_SECTION:waka-->
+1. **[Nama Proyek 1]**  
+   Deskripsi singkat tentang proyek ini. Menggunakan teknologi X, Y, dan Z.  
 
-```txt
-From: 29 October 2024 - To: 09 January 2025
+2. **[Nama Proyek 2]**  
+   Deskripsi singkat tentang proyek ini. Menghadirkan solusi untuk masalah A, B, dan C.  
 
-Total Time: 108 hrs 4 mins
+3. **[Nama Proyek 3]**  
+   Deskripsi singkat tentang proyek ini. Inspirasi utama adalah kebutuhan akan efisiensi dan keindahan.  
 
-PHP              25 hrs 8 mins   ⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   22.90 %
-Lua              18 hrs 15 mins  ⣿⣿⣿⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   16.63 %
-C                16 hrs 13 mins  ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.78 %
-INI              11 hrs 46 mins  ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.72 %
-conf             7 hrs 40 mins   ⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   06.98 %
-Bash             4 hrs 31 mins   ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.12 %
-Blade Template   3 hrs 35 mins   ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.26 %
-Nushell          2 hrs 7 mins    ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.93 %
-CSS              2 hrs 1 min     ⣦⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.85 %
-```
+> *"Aku tidak mencari kebahagiaan, aku hanya ingin merasakan sesuatu yang nyata."*  
 
-<!--END_SECTION:waka-->
+---
+
+## 🤝 **Mari Berbicara!**  
+Jika Anda tertarik untuk berkolaborasi, berdiskusi tentang teknologi, atau sekadar berbagi cerita tentang karya Osamu Dazai, jangan ragu untuk menghubungi saya:  
+
+- 📧 **Email**: Prandika775@gmail.com
+- 🌐 **LinkedIn**: coming soon 
+- 🐦 **Twitter**: coming soon  
+
+Atau, cukup buka issue di salah satu repositori saya—saya selalu senang berbincang dengan orang-orang baru!  
+
+---
+
+## 🌱 **Filosofi Hidup (Menurut Dazai)**  
+> *"Aku tidak takut mati, aku hanya takut hidup tanpa arti."*  
+
+Bagi saya, coding adalah cara untuk memberi makna pada hidup. Setiap bug yang diperbaiki, setiap fitur yang ditambahkan, dan setiap aplikasi yang diluncurkan adalah langkah kecil menuju sesuatu yang lebih besar.  
+
+---
+
+## 📜 **Lisensi**  
+Proyek-proyek saya dilisensikan di bawah **MIT License**, karena saya percaya bahwa pengetahuan harus bebas seperti angin. Gunakan, modifikasi, dan bagikan sesuai kebutuhan Anda.  
+
+---
+
+## 🙏 **Terima Kasih Telah Mampir!**  
+Semoga perjalanan Anda di dunia teknologi sama indahnya dengan kata-kata Osamu Dazai. Jangan lupa untuk menjaga keseimbangan antara kerja keras dan istirahat—karena bahkan Dazai pun butuh waktu untuk menulis ulang naskahnya.  
+
+> *"Aku tidak tahu apakah aku akan berhasil, tapi aku akan terus mencoba sampai akhir."*  
+
+Mari kita terus berkarya, belajar, dan tumbuh bersama. 🌟  
+
+---
+
+Semoga profil ini memberikan kesan mendalam dan unik bagi siapa saja yang mengunjungi halaman GitHub Anda! 🌸
