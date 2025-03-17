@@ -1,11 +1,11 @@
-
----
-
 # 🌸 **Halo, Dunia!**  
 > *"Aku tidak tahu apa arti kebahagiaan, tapi aku tahu bahwa jika kamu kehilangan segalanya, maka kau bebas."*  
 > — Osamu Dazai  
 
 Selamat datang di sudut kecil dunia digital saya. Saya adalah seorang **developer**, **pemimpi**, dan **pencari makna** dalam setiap baris kode yang saya tulis. Seperti karakter-karakter dalam novel Dazai, saya sering kali berada dalam perjalanan untuk menemukan keseimbangan antara keindahan dan kekacauan—dan mungkin, sesekali, menemukan sedikit kebahagiaan di tengahnya.
+
+![GIF Anime Tidur Lucu](https://media.giphy.com/media/3o85xIjL9gDzQ27VcU/giphy.gif)  
+*Ketika coding sudah selesai, saatnya tidur... atau mungkin debugging lagi? 😴*
 
 ---
 
@@ -87,10 +87,11 @@ Proyek-proyek saya dilisensikan di bawah **MIT License**, karena saya percaya ba
 ## 🙏 **Terima Kasih Telah Mampir!**  
 Semoga perjalanan Anda di dunia teknologi sama indahnya dengan kata-kata Osamu Dazai. Jangan lupa untuk menjaga keseimbangan antara kerja keras dan istirahat—karena bahkan Dazai pun butuh waktu untuk menulis ulang naskahnya.  
 
+![GIF Anime Tidur Lucu](https://media.giphy.com/media/3o85xIjL9gDzQ27VcU/giphy.gif)  
+*Ketika semua selesai, biarkan diri Anda beristirahat... atau mungkin mulai lagi besok? 😄*
+
 > *"Aku tidak tahu apakah aku akan berhasil, tapi aku akan terus mencoba sampai akhir."*  
 
 Mari kita terus berkarya, belajar, dan tumbuh bersama. 🌟  
 
 ---
-
-Semoga profil ini memberikan kesan mendalam dan unik bagi siapa saja yang mengunjungi halaman GitHub Anda! 🌸
