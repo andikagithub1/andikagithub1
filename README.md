@@ -4,7 +4,7 @@
 
 Selamat datang di sudut kecil dunia digital saya. Saya adalah seorang **developer**, **pemimpi**, dan **pencari makna** dalam setiap baris kode yang saya tulis. Seperti karakter-karakter dalam novel Dazai, saya sering kali berada dalam perjalanan untuk menemukan keseimbangan antara keindahan dan kekacauan—dan mungkin, sesekali, menemukan sedikit kebahagiaan di tengahnya.
 
-![GIF Anime Tidur Lucu](https://media.giphy.com/media/3o85xIjL9gDzQ27VcU/giphy.gif)  
+![GIF Anime Tidur Lucu](https://media.giphy.com/media/3o85xIjL9gDzQ27VcU/giphy.gif  )  
 *Ketika coding sudah selesai, saatnya tidur... atau mungkin debugging lagi? 😴*
 
 ---
@@ -48,14 +48,14 @@ Berikut adalah beberapa teknologi yang saya gunakan dalam perjalanan saya:
 ## 🌟 **Proyek Favorit**  
 Beberapa proyek yang saya banggakan (dan masih dalam pengembangan):  
 
-1. **[Nama Proyek 1]**  
-   Deskripsi singkat tentang proyek ini. Menggunakan teknologi X, Y, dan Z.  
+1. **[WhistleBlower - Secure Reporting Platform](https://github.com/andikagithub1/WhistleBlower)**  
+   Aplikasi Laravel 11 yang dirancang untuk melaporkan kasus perundungan secara anonim dengan fitur auto-generated username, dashboard pelapor, dan panel admin untuk mengelola laporan. Proyek ini bertujuan membantu siswa agar berani bersuara tanpa takut teridentifikasi.
 
-2. **[Nama Proyek 2]**  
-   Deskripsi singkat tentang proyek ini. Menghadirkan solusi untuk masalah A, B, dan C.  
+2. **[Ekstrakurikuler Management System](https://github.com/Fema19/ekstrakurikuler)**  
+   Sebuah sistem manajemen ekstrakurikuler berbasis Laravel yang membantu sekolah dalam mengorganisir dan mengelola aktivitas non-akademik. Cocok untuk administrasi ekstrakurikuler secara digital dan efisien.
 
-3. **[Nama Proyek 3]**  
-   Deskripsi singkat tentang proyek ini. Inspirasi utama adalah kebutuhan akan efisiensi dan keindahan.  
+3. **[Coming Soon]**  
+   Deskripsi singkat tentang proyek masa depan. Inspirasi utama adalah kebutuhan akan efisiensi dan keindahan.
 
 > *"Aku tidak mencari kebahagiaan, aku hanya ingin merasakan sesuatu yang nyata."*  
 
@@ -87,11 +87,11 @@ Proyek-proyek saya dilisensikan di bawah **MIT License**, karena saya percaya ba
 ## 🙏 **Terima Kasih Telah Mampir!**  
 Semoga perjalanan Anda di dunia teknologi sama indahnya dengan kata-kata Osamu Dazai. Jangan lupa untuk menjaga keseimbangan antara kerja keras dan istirahat—karena bahkan Dazai pun butuh waktu untuk menulis ulang naskahnya.  
 
-![GIF Anime Tidur Lucu](https://media.giphy.com/media/3o85xIjL9gDzQ27VcU/giphy.gif)  
+![GIF Anime Tidur Lucu](https://media.giphy.com/media/3o85xIjL9gDzQ27VcU/giphy.gif  )  
 *Ketika semua selesai, biarkan diri Anda beristirahat... atau mungkin mulai lagi besok? 😄*
 
 > *"Aku tidak tahu apakah aku akan berhasil, tapi aku akan terus mencoba sampai akhir."*  
 
 Mari kita terus berkarya, belajar, dan tumbuh bersama. 🌟  
 
----
+--- 
