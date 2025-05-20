@@ -66,8 +66,7 @@ Beberapa proyek yang saya banggakan (dan masih dalam pengembangan):
 Jika Anda tertarik untuk berkolaborasi, berdiskusi tentang teknologi, atau sekadar berbagi cerita tentang karya Osamu Dazai, jangan ragu untuk menghubungi saya:  
 
 - 📧 **Email**: Prandika775@gmail.com
-- 🌐 **LinkedIn**: coming soon 
-- 🐦 **Twitter**: https://x.com/234_fika
+
 
 Atau, cukup buka issue di salah satu repositori saya—saya selalu senang berbincang dengan orang-orang baru!  
 
@@ -96,5 +95,15 @@ Semoga perjalanan Anda di dunia teknologi sama indahnya dengan kata-kata Osamu D
 > *"Aku tidak tahu apakah aku akan berhasil, tapi aku akan terus mencoba sampai akhir."*  
 
 Mari kita terus berkarya, belajar, dan tumbuh bersama. 🌟  
+
+<div style="text-align: center;">
+  <a href="https://x.com/234_fika " target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000 " 
+      style="width: 5%; height: auto;" 
+      alt="PNG"
+    >
+  </a>
+</div>
 
 --- 
