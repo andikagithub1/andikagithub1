@@ -67,7 +67,7 @@ Jika Anda tertarik untuk berkolaborasi, berdiskusi tentang teknologi, atau sekad
 
 - 📧 **Email**: Prandika775@gmail.com
 - 🌐 **LinkedIn**: coming soon 
-- 🐦 **Twitter**: coming soon  
+- 🐦 **Twitter**: https://x.com/234_fika
 
 Atau, cukup buka issue di salah satu repositori saya—saya selalu senang berbincang dengan orang-orang baru!  
 
