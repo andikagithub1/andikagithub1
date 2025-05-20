@@ -111,7 +111,15 @@ Mari kita terus berkarya, belajar, dan tumbuh bersama. 🌟
       style="width: 5%; height: auto;" 
       alt="PNG"
     >
-  </a>
+ </a>
+ 
+ <a href="https://www.instagram.com/kryo_002/" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.icons8.com/?size=100&id=ZRiAFreol5mE&format=png&color=000000" 
+      style="width: 5%; height: auto;" 
+      alt="PNG"
+    >
+    </a>
 </div>
 
 --- 
