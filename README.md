@@ -96,10 +96,18 @@ Semoga perjalanan Anda di dunia teknologi sama indahnya dengan kata-kata Osamu D
 
 Mari kita terus berkarya, belajar, dan tumbuh bersama. 🌟  
 
-<div style="text-align: center;">
+<div style="display: flex; justify-content: center; gap: 10px;">
   <a href="https://x.com/234_fika " target="_blank" rel="noopener noreferrer">
     <img 
       src="https://img.icons8.com/?size=100&id=phOKFKYpe00C&format=png&color=000000 " 
+      style="width: 5%; height: auto;" 
+      alt="PNG"
+    >
+  </a>
+
+  <a href="https://www.facebook.com/profile.php?id=100026680416994 " target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.icons8.com/?size=100&id=118497&format=png&color=000000 " 
       style="width: 5%; height: auto;" 
       alt="PNG"
     >
