@@ -120,6 +120,16 @@ Mari kita terus berkarya, belajar, dan tumbuh bersama. 🌟
       alt="PNG"
     >
     </a>
+
+ <a href="https://www.tiktok.com/@dford01_" target="_blank" rel="noopener noreferrer">
+    <img 
+      src="https://img.icons8.com/?size=100&id=kM0cd7be1NC1&format=png&color=000000" 
+      style="width: 5%; height: auto;" 
+      alt="PNG"
+    >
+    </a>
+
+   
 </div>
 
 --- 
