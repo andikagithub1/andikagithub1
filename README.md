@@ -4,7 +4,8 @@
 
 Selamat datang di sudut kecil dunia digital saya. Saya adalah seorang **developer**, **pemimpi**, dan **pencari makna** dalam setiap baris kode yang saya tulis. Seperti karakter-karakter dalam novel Dazai, saya sering kali berada dalam perjalanan untuk menemukan keseimbangan antara keindahan dan kekacauan—dan mungkin, sesekali, menemukan sedikit kebahagiaan di tengahnya.
 
-![GIF Anime Tidur Lucu](https://media.giphy.com/media/3o85xIjL9gDzQ27VcU/giphy.gif  )  
+
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG5wMmNwbTkxd3k2M2h0dXFuZDhydTN4cGpja3BvN3U1MjVjc3U4ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f4V2mqvv0wT9m/giphy.gif" width="100%" height="auto"> 
 *Ketika coding sudah selesai, saatnya tidur... atau mungkin debugging lagi? 😴*
 
 ---
