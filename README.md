@@ -88,7 +88,7 @@ Proyek-proyek saya dilisensikan di bawah **MIT License**, karena saya percaya ba
 ## 🙏 **Terima Kasih Telah Mampir!**  
 Semoga perjalanan Anda di dunia teknologi sama indahnya dengan kata-kata Osamu Dazai. Jangan lupa untuk menjaga keseimbangan antara kerja keras dan istirahat—karena bahkan Dazai pun butuh waktu untuk menulis ulang naskahnya.  
 
-![GIF Anime Tidur Lucu](https://media.giphy.com/media/3o85xIjL9gDzQ27VcU/giphy.gif  )  
+<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2hra29sYjNpd2M5YTRkYnBqamVkYno2Y2s0am00aW1kZWRjdzJhbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4QxQgWZHbeYwM/giphy.gif" width="100%" height="auto"> 
 *Ketika semua selesai, biarkan diri Anda beristirahat... atau mungkin mulai lagi besok? 😄*
 
 > *"Aku tidak tahu apakah aku akan berhasil, tapi aku akan terus mencoba sampai akhir."*  
